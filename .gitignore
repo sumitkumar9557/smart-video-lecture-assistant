@@ -1,0 +1,8 @@
+.env
+lecture_env/
+__pycache__/
+videos/
+vector_db/
+vector_db_temp/
+slide_frames/
+transcripts/
